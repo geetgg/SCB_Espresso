@@ -5,6 +5,7 @@ This android test runner brings Junit4 support to android testing. This quiz ans
 2.	LoginActivityTest.java contains JUnit4 style tests for the Login activity of the application.
 
 3.	MainActivityTest.java uses JUnit4 style tests to test the Ui of the Hello World page.
+
 This project uses the Gradle build system. You don't need an IDE to build and execute it but Android Studio is recommended. I have used Android Studio 3.0.1
 
 1.	Download the project code, preferably using git clone.
